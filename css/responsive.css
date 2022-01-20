@@ -1,0 +1,11 @@
+@media screen and (max-width: 768px){
+
+    .logo-nav-bar{
+        width: 50%;
+    }
+    .soleil{
+
+        margin-left: -70px;
+    }
+
+}
