@@ -32,6 +32,7 @@ h6 {
 }
 
 /**nav-bar*/
+
 #video-conteneur{
  
     width: 100%;
@@ -98,3 +99,10 @@ height: 190px;
 
 /**section4*/
 
+
+/**footer */
+#foot{
+background-color:lightgrey;
+;
+
+}
