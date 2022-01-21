@@ -44,21 +44,20 @@ h6 {
     height: auto;
     width: 100%;
     left: 0;
-    top: 10px;
+    top: 30%;
 }
 
 .content{
     position: absolute;
     bottom: 0;
     background-color: rgba(0,0,0,0.5);
-    width: 50%;
+    width: 90%;
     padding: 100px;
-    left: 25%;
+    left: 5%;
     right: auto;
     height: 450px;
-    top: 40%;
+    top: 120%;
 }
-
 
 /**section1*/
 
